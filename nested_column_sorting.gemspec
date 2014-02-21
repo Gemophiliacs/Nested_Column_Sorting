@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shilpi Prasad", "Himanshu Joshi"]
   spec.description   = %q{Sort Nested Columns of tables in ruby}
   spec.summary       = %q{Sort Nested Columns of tables in ruby}
-  #spec.homepage      = "https://github.com/Manik-Ratna/github-contributions"
+  spec.homepage      = "https://github.com/Gemophiliacs/Nested_Column_Sorting"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
