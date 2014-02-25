@@ -6,7 +6,7 @@ require 'nested_column_sorting/version'
 Gem::Specification.new do |spec|
   spec.name          = "nested_column_sorting"
   spec.version       = Nested_Column::Sorting::VERSION
-  spec.authors       = ["Shilpi Prasad", "Himanshu Joshi"]
+  spec.authors       = ["Shilpi Prasad", "Himanshu Joshi", "Prathiba Kn", "Vipul", "Karan"]
   spec.description   = %q{Sort Nested Columns of tables in ruby}
   spec.summary       = %q{Sort Nested Columns of tables in ruby}
   spec.homepage      = "https://github.com/Gemophiliacs/Nested_Column_Sorting"
